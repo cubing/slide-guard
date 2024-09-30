@@ -9,10 +9,10 @@ The full prototype consists of:
 
 | Item | Size | Material cost |
 | - | - | - |
-| Clear acrylic | 9" × 1" × ⅛" | ≤ $1 |
+| Clear acrylic | 9in × 1in × ⅛in | ≤ $1 |
 | Mounting bracket | 250mm × 77.1mm × 27.1mm | ≤ $1 |
 
-The acrylic height can also vary in height (i.e. the 1" dimension can be shorter or longer).
+The acrylic height can also vary in height (i.e. the 1in dimension can be shorter or longer).
 
 I personally get my acrylic from [TAP Plastics](https://tapplastics.com/).
 
